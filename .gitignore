@@ -92,7 +92,6 @@ eclipsesettingfile.xml
 .cxx_tags
 .yavide_proj
 .yavide_session
-.vscode
 *.code-workspace
 .mold-*
 
@@ -140,7 +139,6 @@ DerivedData
 *.opensdf
 *.vcxproj*
 /.vs
-/.vscode
 *.VC.db
 LibreOffice.VC.VC.opendb
 
